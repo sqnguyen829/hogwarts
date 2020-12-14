@@ -133,6 +133,14 @@ ul {
   clear: both;
 }
 
+.column-right {
+  float: right;
+  width: 50%;
+}
+.column-left {
+    float: left;
+    width: 50%;
+}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
